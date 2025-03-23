@@ -143,6 +143,6 @@ Projede aşağıdaki test senaryoları tanımlanmıştır:
 Proje ile ilgili sorularınız veya önerileriniz için bana ulaşabilirsiniz:
 
 - **E-posta**: halimenuryalcinn@gmail.com
-- **GitHub**: [kullanici_adiniz](https://github.com/halimenuryalcin)
+- **GitHub**: [halimenuryalcin](https://github.com/halimenuryalcin)
 
 
